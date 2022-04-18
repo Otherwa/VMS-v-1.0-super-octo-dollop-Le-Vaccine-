@@ -11,3 +11,6 @@
 ![download](https://user-images.githubusercontent.com/67428572/163775442-6fb9196c-83d5-4959-9964-d7c36ae29fdf.png)
 ![download](https://user-images.githubusercontent.com/67428572/163775465-84525d6d-2edb-43c2-b358-023c8ef9ddc5.png)
 ![download](https://user-images.githubusercontent.com/67428572/163775492-e094c44f-e180-47bc-8257-55d59ab8dd38.png)
+
+# In a nutshell
+![download](https://user-images.githubusercontent.com/67428572/163776933-534e29ba-eff9-4215-819a-0afc4bd55882.jpg)
