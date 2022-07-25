@@ -22,7 +22,7 @@
 [us-gps-mass-vaccination-user-journey.pdf](https://github.com/Otherwa/VMS-v-1.0-super-octo-dollop-Le-Vaccine-/files/8890831/us-gps-mass-vaccination-user-journey.pdf)
 
 # references stack
-https://youtu.be/2HVKizgcfjo
+https://youtube.com/playlist?list=PLIN4XUzP3j545bPZ9tEji2XcJll9BwHyd
 
 # In a nutshell
 ![download](https://user-images.githubusercontent.com/67428572/163776933-534e29ba-eff9-4215-819a-0afc4bd55882.jpg)
