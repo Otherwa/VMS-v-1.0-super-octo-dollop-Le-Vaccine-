@@ -4,7 +4,7 @@
 
 `A simple Management System for Managing and Tracking people dosage stats using ASP.Net and MongoDb`
 
-### Schema
+### Schema (Currently Discared)
 `Wrong Interpolation but Base is set`/`backup but use in other project`
 ![Le Vaccine](https://user-images.githubusercontent.com/67428572/169537042-d34dad1b-aa5b-43c7-9b72-7d7035aec082.jpg)
 
