@@ -2,7 +2,7 @@
 
 ## Introduction
 
-`A simple Management System for Managing and Tracking people dosage stats using ASP.Net and MySql`
+`A simple Management System for Managing and Tracking people dosage stats using ASP.Net and MongoDb`
 
 ### Schema
 `Wrong Interpolation but Base is set`/`backup but use in other project`
